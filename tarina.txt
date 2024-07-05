@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 jokin pitka patka tekstia joka on kirjoitettu tiedostoon nimelta tarina.txt. Tässä on nyt lisaa tekstia oikein paljon pidentamassa 
+<<<<<<< Updated upstream
+=======
+jokin pitka patka tekstia joka on kirjoitettu tiedostoon nimelta tarina.txt. Tässä on nyt OIKEIN PALJON PALJON lisaa tekstia pidentamassa 
+>>>>>>> 9d8d8dc8ea169b8f751ea172512c7ecec4a5f46f
 tiedostoa. Onkohan tassa nyt tarpeeksi tekstia? Ehka viela varmuudeksi lisaa tekstia. Ja viela vahan lisaa.
+=======
+tiedostoa. Onkohan tassa nyt tarpeeksi tekstia? Ehka viela varmuudeksi lisaa tekstia. Ja viela OIKEIN PALJON lisaa.
+>>>>>>> Stashed changes
