@@ -1,2 +1,2 @@
-jokin pitka patka tekstia joka on kirjoitettu tiedostoon nimelta tarina.txt. Tässä on nyt lisaa tekstia pidentamassa 
+jokin pitka patka tekstia joka on kirjoitettu tiedostoon nimelta tarina.txt. Tässä on nyt OIKEIN PALJON PALJON lisaa tekstia pidentamassa 
 tiedostoa. Onkohan tassa nyt tarpeeksi tekstia? Ehka viela varmuudeksi lisaa tekstia. Ja viela vahan lisaa.
